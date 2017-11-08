@@ -1,4 +1,4 @@
-### MarketingCloud
+#### MarketingCloud API wrapper
 
 * Sample Python API wrappers for extracing data out of Salesforce MarketingCloud object. 
 
