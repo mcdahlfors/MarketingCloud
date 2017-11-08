@@ -4,6 +4,6 @@
 
 * This wrapper uses the FuelSDK framework. 
 
-* Event objects are transactional objects sourcing delta only.
+* Event objects are transactional objects where delta is sourced through timestamp cut-offs.
 
 * Non-event objects use full extract.
